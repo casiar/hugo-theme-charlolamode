@@ -1,5 +1,5 @@
-baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: charlola.mode
+baseURL: https://arlabosse.co/
+title: Arlabosse
 paginate: 5
 theme: charlolamode
 
@@ -7,10 +7,10 @@ theme: charlolamode
 
 menu:
     main:
-        - name: Contact
-          url: /contact/
-          weight: 30
-        - name: Articles
+        #- name: Biography
+         # url: /contact/
+          #weight: 30
+        - name: Models & Articles
           url: /articles/
           weight: 20
         - name: Projects
@@ -27,46 +27,53 @@ menu:
 
 
 params:
-    author: Author's Name
+    author: Casimir Arlabosse
 
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
-    ShowReadingTime: true
+    ShowShareButtons: false
+    ShowReadingTime: false
     displayFullLangName: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
-    ShowToc: true
+    ShowToc: false
 
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Doe
+        title: Casimir Arlabosse
         description: |
 
-          Hello, I am Joe.
-           I am a software developer. 
+          Hello, my name is Casimir.
         
 
-          This is a minimalistic theme template for websites.
+          I'm currently a student at HKU & MBS.
+
+
+          Interested in all things finance, tech and stats.
+
+
+          Affiliated with Arietis & Baucampus.
         imageUrl: "/images/profile.png"
-        imageTitle: my image
+        imageTitle: carlabosse
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-            - name: Don't click me
-              url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+            - name: Latest Model
+              url: /articles/airbnb
     mainSections:
       - articles
 
     socialIcons:
-        - name: buymeacoffee
-          url: "https://ko-fi.com/heycharlola"
         - name: github
-          url: "https://github.com/charlola"
+          url: "https://github.com/casiar"
         - name: linkedin
-          url: "https://www.linkedin.com/in/heycharlola/"
+          url: "https://www.linkedin.com/in/arlabossecasimir/"
+        - name: cv
+          url: "https://arlabosse.co/cv.pdf"
+        #- name: researchgate
+         # url: "https://www.researchgate.net/profile/casimir-arlabosse"
 
       # add more social icons. find more in svg.html file
       # - name: youtube
