@@ -45,10 +45,10 @@ params:
         title: Casimir Arlabosse
         description: |
 
-          Hello, my name is Casimir.
+          Hello and welcome to my profile page!
         
 
-          I'm currently a student at HKU & MBS.
+          I'm currently studying at HKU & MBS.
 
 
           Interested in all things finance, tech and stats.
@@ -71,7 +71,7 @@ params:
         - name: linkedin
           url: "https://www.linkedin.com/in/arlabossecasimir/"
         - name: cv
-          url: "https://arlabosse.co/cv.pdf"
+          url: "https://arlabosse.co/Casimir_Arlabosse_CV_public.pdf"
         #- name: researchgate
          # url: "https://www.researchgate.net/profile/casimir-arlabosse"
 
