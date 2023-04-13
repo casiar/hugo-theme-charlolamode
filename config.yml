@@ -10,11 +10,11 @@ menu:
         #- name: Biography
          # url: /contact/
           #weight: 30
-        - name: Models & Articles
-          url: /articles/
+        - name: Publications
+          url: /publications/
           weight: 20
-        - name: Projects
-          url: /projects/
+        - name: Affiliations
+          url: /affiliations/
           weight: 15
 
      # - name: Categories
