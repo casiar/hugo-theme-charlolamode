@@ -61,7 +61,7 @@ params:
         # imageHeight: 120
         buttons:
             - name: Latest Publication
-              url: /articles/airbnb
+              url: /publications/airbnb
     mainSections:
       - articles
 
