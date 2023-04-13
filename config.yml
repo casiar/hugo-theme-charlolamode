@@ -60,7 +60,7 @@ params:
         # imageWidth: 120
         # imageHeight: 120
         buttons:
-            - name: Latest Model
+            - name: Latest Publication
               url: /articles/airbnb
     mainSections:
       - articles
