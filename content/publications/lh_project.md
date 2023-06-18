@@ -1,11 +1,10 @@
-```python
-title: "Airbnb - #ABNB"
+---
+title: "TestB"
 type: page
 description: "DCF Model for Airbnb #ABNB"
 topic: model
 <!--eofm-->
-```
-
+---
 Do left-handed people really die young?
 
 Where are the old left-handed people?
